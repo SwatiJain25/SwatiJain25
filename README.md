@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwatiJain25
 - 👀 I’m interested in learning new things and exploring .
-- 🌱 I’m currently learning web development,graphic designing and python.
-- 💞️ I’m looking to collaborate on projects related to web development
+- 🌱 I’m currently learning web development and app development(flutter) 
+- 💞️ I’m looking to collaborate on projects related to the above mentioned fields.
 - 📫 How to reach me contact me via instagram swatijain2003
  
 <!---
